@@ -6,4 +6,5 @@
 
 **I think I can use some JavaScript graphics libraries and frameworks, such as Three.js or PixiJS, to achieve my goals.**
 
-![An image of film](readmeImages/529.jpg)
+![An image of 529.jpg](readmelmages/529.jpg)
+
